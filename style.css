@@ -1,0 +1,112 @@
+body{
+    font-family: 'Crimson Text', serif;
+    background-color: rgb(82, 94, 136);}
+/*--------
+container start--------*/
+.container{
+    max-width:1000px;
+    height: 1000px;
+    background-color: rgb(214, 206, 221);
+    margin:0 auto;
+}
+/*--------
+header start--------*/
+img{
+    width: 150px;
+    height: 150px;
+    border:3px dotted rgb(94, 204, 39);
+    border-radius:50%;
+  margin:20px;
+   float:left;
+}
+.name-proffession{
+ padding:20px;
+ float:left;
+}
+
+ .contact-info{
+    float:right;
+    padding:30px;
+}
+.contact-info a{
+    color:rgb(14, 74, 165);
+    text-decoration: none;
+}
+/*--------
+header end--------*/
+#clear{
+    clear:both
+}
+hr{
+    border:2.5px solid rgb(4, 22, 4);
+   width: 98%;
+    margin:20 auto;
+border-bottom: none;}
+/*--------
+manin start--------*/
+
+/*--------
+personal information start--------*/
+.content{
+    margin-bottom:2px;
+    }
+.left-div{
+    float:left;
+    width: 40%;
+    margin:10px
+}
+.right-div{
+    float:left;
+    width:50%;
+}
+/*--------
+personal information End--------*/
+
+.common-hr{
+    border:1px solid black;
+    border-bottom:none;
+    width: 98%;
+    margin:20 auto;
+}/*--------
+work-experience start--------*/
+/*--------
+work-experience end--------*/
+/*--------
+Education start--------*/
+.edu-a{
+    float:left;
+    width:45%;
+}
+.edu-b{
+    float:left;
+    width:45%
+}
+.scl-clg{
+    text-decoration: none;
+     cursor:help;
+}
+/*--------
+Education End--------*/
+/*--------
+manin End--------*/
+/*--------
+footer start--------*/
+  .bottom-container{
+    background-color: rgb(8, 8, 7);
+    text-align: center;
+    padding: 10px;
+  }
+  .bottom-container a{
+    color:white;
+    text-decoration: none;
+    margin:20px;
+    font-size: 20px;
+  }
+.bottom-container p{
+    color:white;
+    margin-top:20px
+}
+/*--------
+footer end--------*/
+/*--------
+container start--------*/
